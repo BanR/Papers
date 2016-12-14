@@ -4,6 +4,7 @@
 - https://github.com/aleju/papers/tree/master/neural-nets
 - https://github.com/kjw0612/awesome-rnn#image-generation
 - https://github.com/jtoy/awesome-tensorflow
+- [TensorFlow Tutorial](https://github.com/alrojo/tensorflow-tutorial)
 - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 - https://github.com/rushter/data-science-blogs
 - https://github.com/josephmisiti/awesome-machine-learning
