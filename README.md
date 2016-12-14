@@ -30,6 +30,7 @@
   - http://kvfrans.com/what-is-draw-deep-recurrent-attentive-writer/
 5. [LAPGAN](https://arxiv.org/pdf/1506.05751.pdf)
 6. [Improved GAN(Open.ai)](https://arxiv.org/pdf/1606.03498v1.pdf)
+  - [Code](https://github.com/openai/improved-gan)
 7. [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v1.pdf)
 8. [Image Completion with Deep Learning in TensorFlow](https://bamos.github.io/2016/08/09/deep-completion/)
 9. https://openai.com/blog/generative-models/
