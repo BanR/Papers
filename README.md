@@ -42,6 +42,7 @@
   - https://github.com/ericjang/draw
   - http://kvfrans.com/what-is-draw-deep-recurrent-attentive-writer/
 5. [LAPGAN](https://arxiv.org/pdf/1506.05751.pdf)
+  - http://www.cs.nyu.edu/~denton/papers/lapgan_supp.pdf
 6. [Improved GAN(Open.ai)](https://arxiv.org/pdf/1606.03498v1.pdf)
   - [Code](https://github.com/openai/improved-gan)
 7. [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v1.pdf)
