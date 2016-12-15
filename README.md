@@ -50,3 +50,4 @@
 8. [Image Completion with Deep Learning in TensorFlow](https://bamos.github.io/2016/08/09/deep-completion/)
 9. https://openai.com/blog/generative-models/
 10. [Conditional generative adversarial nets for convolutional face generation](http://www.foldl.me/uploads/2015/conditional-gans-face-generation/paper.pdf)
+11. https://github.com/junyanz/iGAN
