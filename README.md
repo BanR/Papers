@@ -25,8 +25,8 @@
 8. [Neural Word Embedding as Implicit Matrix Factorization](https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf)
 9. [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 10.[Word2Vec Resources](http://mccormickml.com/2016/04/27/word2vec-resources/#efficient-estimation-of-word-representations-in-vector-space)
-10. http://blog.echen.me/2012/03/20/infinite-mixture-models-with-nonparametric-bayes-and-the-dirichlet-process/
-11. http://blog.datumbox.com/the-dirichlet-process-the-chinese-restaurant-process-and-other-representations/
+11. http://blog.echen.me/2012/03/20/infinite-mixture-models-with-nonparametric-bayes-and-the-dirichlet-process/
+12. http://blog.datumbox.com/the-dirichlet-process-the-chinese-restaurant-process-and-other-representations/
 
 ###Generative Image Models:
 1. [Variational Autoencoders](https://arxiv.org/pdf/1312.6114v10.pdf)
