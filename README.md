@@ -14,6 +14,7 @@
 - tutorial [1](http://ai.stanford.edu/~quocle/tutorial1.pdf) & [2](http://ai.stanford.edu/~quocle/tutorial2.pdf)
 - [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
 - [Batch Normalization](https://gab41.lab41.org/batch-normalization-what-the-hey-d480039a9e3b#.mjo2k7r6k)
+- https://github.com/BVLC/caffe/tree/master/models
 
 ###Word Embeddings
 1. [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
