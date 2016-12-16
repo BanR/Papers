@@ -5,6 +5,7 @@
 - https://github.com/kjw0612/awesome-rnn#image-generation
 - https://github.com/jtoy/awesome-tensorflow
 - [TensorFlow Tutorial](https://github.com/alrojo/tensorflow-tutorial)
+- [CS224d:TensorFlow Tutorial](http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
 - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 - https://github.com/rushter/data-science-blogs
 - https://github.com/josephmisiti/awesome-machine-learning
@@ -51,3 +52,6 @@
 9. https://openai.com/blog/generative-models/
 10. [Conditional generative adversarial nets for convolutional face generation](http://www.foldl.me/uploads/2015/conditional-gans-face-generation/paper.pdf)
 11. https://github.com/junyanz/iGAN
+12. [Sampling Generative Networks](https://arxiv.org/pdf/1609.04468v3.pdf)
+13. [HOW (NOT) TO TRAIN YOUR GENERATIVE MODEL:SCHEDULED SAMPLING, LIKELIHOOD, ADVERSARY?](https://arxiv.org/pdf/1511.05101v1.pdf)
+14. [A NOTE ON THE EVALUATION OF GENERATIVE MODELS](https://arxiv.org/pdf/1511.01844v3.pdf)
