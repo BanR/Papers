@@ -1,7 +1,7 @@
 # papers/resources
 
 ###Generic:
-- colah.github.io
+- http://colah.github.io/
 - https://github.com/aleju/papers/tree/master/neural-nets
 - https://github.com/kjw0612/awesome-rnn#image-generation
 - https://github.com/jtoy/awesome-tensorflow
