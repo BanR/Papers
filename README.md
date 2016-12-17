@@ -1,6 +1,7 @@
 # papers/resources
 
 ###Generic:
+- colah.github.io
 - https://github.com/aleju/papers/tree/master/neural-nets
 - https://github.com/kjw0612/awesome-rnn#image-generation
 - https://github.com/jtoy/awesome-tensorflow
@@ -27,8 +28,14 @@
 8. [Neural Word Embedding as Implicit Matrix Factorization](https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf)
 9. [Word2Vec Tutorial-The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 10. [Word2Vec Resources](http://mccormickml.com/2016/04/27/word2vec-resources/#efficient-estimation-of-word-representations-in-vector-space)
-11. http://blog.echen.me/2012/03/20/infinite-mixture-models-with-nonparametric-bayes-and-the-dirichlet-process/
-12. http://blog.datumbox.com/the-dirichlet-process-the-chinese-restaurant-process-and-other-representations/
+11. [Glove](http://www-nlp.stanford.edu/pubs/glove.pdf)
+
+###Infinite Mixture Models
+1. http://blog.echen.me/2012/03/20/infinite-mixture-models-with-nonparametric-bayes-and-the-dirichlet-process/
+2. http://blog.datumbox.com/the-dirichlet-process-the-chinese-restaurant-process-and-other-representations/
+3. http://web.science.mq.edu.au/~mjohnson/papers/Johnson11MLSS-talk-extras.pdf
+4. [Graphical Models and Bayesian Networks](http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html)
+4. Indian Buffet Process [1](http://cocosci.berkeley.edu/tom/papers/indianbuffet.pdf) [2](http://www.mit.edu/~ilkery/papers/IndianBuffetProcess.pdf)
 
 ###Generative Image Models:
 1. [Variational Autoencoders](https://arxiv.org/pdf/1312.6114v10.pdf)
