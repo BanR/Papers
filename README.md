@@ -42,6 +42,7 @@
   - [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908v2.pdf)
   - [Variational Autoencoder in TensorFlow](https://jmetzen.github.io/2015-11-27/vae.html)
 2. [Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661v1.pdf)
+  - [NIPS 2016 GAN tutorial](https://arxiv.org/pdf/1701.00160v1.pdf)
 3. [DCGAN](https://arxiv.org/pdf/1511.06434v2.pdf)
   - http://blog.evjang.com/2016/06/generative-adversarial-nets-in.html
   - Tf: https://github.com/carpedm20/DCGAN-tensorflow
