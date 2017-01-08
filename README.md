@@ -56,11 +56,12 @@
   - http://www.cs.nyu.edu/~denton/papers/lapgan_supp.pdf
 6. [Improved GAN(Open.ai)](https://arxiv.org/pdf/1606.03498v1.pdf)
   - [Code](https://github.com/openai/improved-gan)
-7. [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v1.pdf)
-8. [Image Completion with Deep Learning in TensorFlow](https://bamos.github.io/2016/08/09/deep-completion/)
-9. https://openai.com/blog/generative-models/
-10. [Conditional generative adversarial nets for convolutional face generation](http://www.foldl.me/uploads/2015/conditional-gans-face-generation/paper.pdf)
-11. https://github.com/junyanz/iGAN
-12. [Sampling Generative Networks](https://arxiv.org/pdf/1609.04468v3.pdf)
-13. [HOW (NOT) TO TRAIN YOUR GENERATIVE MODEL:SCHEDULED SAMPLING, LIKELIHOOD, ADVERSARY?](https://arxiv.org/pdf/1511.05101v1.pdf)
-14. [A NOTE ON THE EVALUATION OF GENERATIVE MODELS](https://arxiv.org/pdf/1511.01844v3.pdf)
+7. [StackGANs](https://arxiv.org/pdf/1612.03242v1.pdf)
+8. [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v1.pdf)
+9. [Image Completion with Deep Learning in TensorFlow](https://bamos.github.io/2016/08/09/deep-completion/)
+10. https://openai.com/blog/generative-models/
+11. [Conditional generative adversarial nets for convolutional face generation](http://www.foldl.me/uploads/2015/conditional-gans-face-generation/paper.pdf)
+12. https://github.com/junyanz/iGAN
+13. [Sampling Generative Networks](https://arxiv.org/pdf/1609.04468v3.pdf)
+14. [HOW (NOT) TO TRAIN YOUR GENERATIVE MODEL:SCHEDULED SAMPLING, LIKELIHOOD, ADVERSARY?](https://arxiv.org/pdf/1511.05101v1.pdf)
+15. [A NOTE ON THE EVALUATION OF GENERATIVE MODELS](https://arxiv.org/pdf/1511.01844v3.pdf)
