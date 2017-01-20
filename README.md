@@ -6,7 +6,7 @@
 - http://karpathy.github.io/
 - http://www.deeplearningbook.org/
 - [AndrewNg cs229](http://cs229.stanford.edu/materials.html)
-- A Tutorial on Deep Learning(Stanford) [1](http://ai.stanford.edu/~quocle/tutorial1.pdf) & [2](http://ai.stanford.edu/~quocle/tutorial2.pdf)
+- A Tutorial on Deep Learning [1](http://ai.stanford.edu/~quocle/tutorial1.pdf) & [2](http://ai.stanford.edu/~quocle/tutorial2.pdf)
 - https://github.com/aleju/papers/tree/master/neural-nets
 - https://github.com/kjw0612/awesome-rnn#image-generation
 - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
