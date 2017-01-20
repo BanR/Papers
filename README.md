@@ -3,14 +3,16 @@
 ###Generic:
 - http://colah.github.io/
 - https://adeshpande3.github.io/
+- http://karpathy.github.io/
+- http://www.deeplearningbook.org/
+- [AndrewNg cs229](http://cs229.stanford.edu/materials.html)
+- A Tutorial on Deep Learning(Stanford) [1](http://ai.stanford.edu/~quocle/tutorial1.pdf) & [2](http://ai.stanford.edu/~quocle/tutorial2.pdf)
 - https://github.com/aleju/papers/tree/master/neural-nets
 - https://github.com/kjw0612/awesome-rnn#image-generation
 - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 - https://github.com/rushter/data-science-blogs
 - https://github.com/josephmisiti/awesome-machine-learning
 - [A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285v1.pdf)
-- [AndrewNg cs229](http://cs229.stanford.edu/materials.html)
-- tutorial [1](http://ai.stanford.edu/~quocle/tutorial1.pdf) & [2](http://ai.stanford.edu/~quocle/tutorial2.pdf)
 - [Batch Normalization](https://gab41.lab41.org/batch-normalization-what-the-hey-d480039a9e3b#.mjo2k7r6k)
 - https://github.com/BVLC/caffe/tree/master/models
 
