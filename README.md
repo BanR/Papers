@@ -18,37 +18,6 @@
 - [MCMC] (http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
 
 
-###GenerativeModels:
-1. [Variational Autoencoders](https://arxiv.org/pdf/1312.6114v10.pdf)
-  - [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908v2.pdf)
-  - [Variational Autoencoder in TensorFlow](https://jmetzen.github.io/2015-11-27/vae.html)
-2. [Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661v1.pdf)
-  - [NIPS 2016 GAN tutorial](https://arxiv.org/pdf/1701.00160v1.pdf)
-3. [DCGAN](https://arxiv.org/pdf/1511.06434v2.pdf)
-  - http://blog.evjang.com/2016/06/generative-adversarial-nets-in.html
-  - https://github.com/carpedm20/DCGAN-tensorflow
-  - https://github.com/soumith/ganhacks
-4. [Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498v1.pdf)
-  - [Code](https://github.com/openai/improved-gan)
-5. [DRAW](https://arxiv.org/pdf/1502.04623v2.pdf)
-  - http://blog.evjang.com/2016/06/understanding-and-implementing.html 
-  - https://github.com/ericjang/draw
-  - http://kvfrans.com/what-is-draw-deep-recurrent-attentive-writer/
-6. [LAPGAN](https://arxiv.org/pdf/1506.05751.pdf)
-  - http://www.cs.nyu.edu/~denton/papers/lapgan_supp.pdf
-7. [CONDITIONAL IMAGE SYNTHESIS WITH AUXILIARY CLASSIFIER GANS](https://arxiv.org/pdf/1610.09585.pdf)
-8. [StackGANs](https://arxiv.org/pdf/1612.03242v1.pdf)
-9. [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v1.pdf)
-10. [Image Completion with Deep Learning in TensorFlow](https://bamos.github.io/2016/08/09/deep-completion/)
-11. https://openai.com/blog/generative-models/
-12. [Conditional generative adversarial nets for convolutional face generation](http://www.foldl.me/uploads/2015/conditional-gans-face-generation/paper.pdf)
-13. https://github.com/junyanz/iGAN
-14. [Sampling Generative Networks](https://arxiv.org/pdf/1609.04468v3.pdf)
-15. [HOW (NOT) TO TRAIN YOUR GENERATIVE MODEL:SCHEDULED SAMPLING, LIKELIHOOD, ADVERSARY?](https://arxiv.org/pdf/1511.05101v1.pdf)
-  - [A NOTE ON THE EVALUATION OF GENERATIVE MODELS](https://arxiv.org/pdf/1511.01844v3.pdf)
-  - [TOWARDS PRINCIPLED METHODS FOR TRAINING GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1701.04862v1.pdf)
-16. [NIPS 2016 Workshop on Adversarial Training -papers](https://sites.google.com/site/nips2016adversarial/home/accepted-papers)
-17. [NIPS 2016 Workshop on Adversarial Training] (https://sites.google.com/site/nips2016adversarial/)
 
 ###Word Embeddings
 1. [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
