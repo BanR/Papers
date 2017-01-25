@@ -15,6 +15,7 @@
 - [A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285v1.pdf)
 - [Batch Normalization](https://gab41.lab41.org/batch-normalization-what-the-hey-d480039a9e3b#.mjo2k7r6k)
 - https://github.com/BVLC/caffe/tree/master/models
+- [MCMC] (http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
 
 
 ###GenerativeModels:
@@ -45,6 +46,9 @@
 14. [Sampling Generative Networks](https://arxiv.org/pdf/1609.04468v3.pdf)
 15. [HOW (NOT) TO TRAIN YOUR GENERATIVE MODEL:SCHEDULED SAMPLING, LIKELIHOOD, ADVERSARY?](https://arxiv.org/pdf/1511.05101v1.pdf)
   - [A NOTE ON THE EVALUATION OF GENERATIVE MODELS](https://arxiv.org/pdf/1511.01844v3.pdf)
+  - [TOWARDS PRINCIPLED METHODS FOR TRAINING GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1701.04862v1.pdf)
+16. [NIPS 2016 Workshop on Adversarial Training -papers](https://sites.google.com/site/nips2016adversarial/home/accepted-papers)
+17. [NIPS 2016 Workshop on Adversarial Training] (https://sites.google.com/site/nips2016adversarial/)
 
 ###Word Embeddings
 1. [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
