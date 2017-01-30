@@ -16,6 +16,7 @@
 - [Batch Normalization](https://gab41.lab41.org/batch-normalization-what-the-hey-d480039a9e3b#.mjo2k7r6k)
 - https://github.com/BVLC/caffe/tree/master/models
 - [MCMC] (http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
+- http://blog.shakirm.com/
 
 
 
