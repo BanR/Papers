@@ -17,6 +17,7 @@
 - https://github.com/BVLC/caffe/tree/master/models
 - [MCMC] (http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
 - http://blog.shakirm.com/
+- [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.wo4vqjw6i)
 
 
 
