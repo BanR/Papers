@@ -45,4 +45,5 @@
 - [CS224d:TensorFlow Tutorial](http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
 - https://github.com/jtoy/awesome-tensorflow
 - [TensorFlow Tutorial](https://github.com/alrojo/tensorflow-tutorial)
+- https://jasdeep06.github.io/posts/getting-started-with-tensorflow/
 
